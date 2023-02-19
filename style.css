@@ -136,3 +136,29 @@ main {
     top: -10px;
     width: 40px;
 }
+
+.funny-glasses {
+    position: relative;
+    top: -110px;
+    left: 210px;
+}
+
+.bandana {
+    position: absolute;
+    top: 180px;
+    left: 110px;
+}
+
+.pawprint {
+    position: fixed;
+    top: 50px;
+    right: 1160px;
+}
+
+.luna {
+    position: absolute;
+}
+
+.top-hat {
+    z-index: 1
+}
